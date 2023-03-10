@@ -14,3 +14,5 @@ The Entity Relation Diagram is a structural diagram that shows the relationship 
 The Use Case Diagram is a behavioural diagram. This part is shown in "26714484 use case diagram.png"
 
 The Gantt Chart is a chart to show project timetable (planning) This part is shown in "bank26714484.jpg"
+
+"Run.mov " is a video that shows the executed code.
