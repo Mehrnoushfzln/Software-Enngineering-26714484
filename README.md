@@ -7,7 +7,7 @@ The Entity Relation Diagram is a structural diagram that shows the relationship 
 The Use Case Diagram is a behavioural diagram. This part is shown in "26714484 use case diagram.png"
 
 The Gantt Chart is a chart to show project timetable (planning) This part is shown in "bank26714484.jpg"
-
+#-----------------------------------------------------------
 # Coding part : 
 
 " MainPage.py " : this is the first part of creating the Graphic user interface which creates "create an account", "withdraw cash",  "deposit cash", "transfer from different accounts", and "view account detail" buttons. This part is shown in "Third.py".    the first page is compeleted by MainPage.py
@@ -22,6 +22,10 @@ The Gantt Chart is a chart to show project timetable (planning) This part is sho
 
 "transfer from different account.py" : compeletes the coding parts for transfer from different account button, with click on this button user should enter another user account details and enter the amount he/she wants to transfer, then with clicking on submit button , the money will transfer.
 
+# " transfer from different account.py " is the final versionn of the bank software prototype with run this file you can see the final version.
+#-----------------------------------------------------------
+
 # Executive video of the Bank prototype
 
 "26714484run.mp4" : executive video of the bank prototype.
+#-----------------------------------------------------------
