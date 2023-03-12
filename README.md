@@ -23,3 +23,5 @@ The Gantt Chart is a chart to show project timetable (planning) This part is sho
 "transfer from different account.py" : compeletes the coding parts for transfer from different account button, with click on this button user should enter another user account details and enter the amount he/she wants to transfer, then with clicking on submit button , the money will transfer.
 
 # Executive video of the Bank prototype
+
+"26714484run.mp4" : executive video of the bank prototype.
