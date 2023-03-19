@@ -1,6 +1,6 @@
 # Software-Enngineering-Bank / 26714484 / Mehrnoush Fazlollah Nejad
 
-# Diagrams:
+# 1 - Diagrams:
 
 # Entity Relation Diagram: 
 The Entity Relation Diagram is a structural diagram that shows the relationship between entities in the bank database. This part is shown in "Entity relation diagram 26714484.png"
@@ -15,7 +15,7 @@ A flow chart is a diagram that represents an algorithm and is crucial for system
 The Gantt Chart is a chart to show project timetable (planning) This part is shown in "bank26714484.jpg"
 
 
-# Coding part : 
+# 2 - Coding part : 
 
 " MainPage.py " : this is the first part of creating the Graphic user interface which creates "create an account", "withdraw cash",  "deposit cash", "transfer from different accounts", and "view account detail" buttons. This part is shown in "Third.py".    the first page is compeleted by MainPage.py
 
@@ -32,7 +32,7 @@ The Gantt Chart is a chart to show project timetable (planning) This part is sho
 # " transfer from different account.py " is the final versionn of the bank software prototype with run this file you can see the final version.
 
 
-# Executive video of the Bank prototype
+# 3 - Executive video of the Bank prototype
 
 "26714484run.mp4" : executive video of the bank prototype.
 
