@@ -15,7 +15,7 @@ A flow chart is a diagram that represents an algorithm and is crucial for system
 A screen mockup is a representation in graphic form of the user interface of a software programme. It serves as a preview of the Software for stakeholders and a way to get their opinions on how it should be designed. This part is shown in "Screen Mockup.pdf". This file shows screen mock-ups for 3 pages. (Main Page, Create an account, View account details)
 
 # Gantt Chart:
-The Gantt Chart is a chart to show project timetable (planning) This part is shown in "GantChart26714484.gan" Also I uploaded a picture of GantChart which you can see in ""
+The Gantt Chart is a chart to show project timetable (planning) This part is shown in "GantChart26714484.gan" Also I uploaded a picture of GantChart which you can see in "GantChart photo26714484.png"
 
 
 # 2 - Coding part : 
