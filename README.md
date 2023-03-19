@@ -2,11 +2,18 @@
 
 # Diagrams:
 
+#Entity Relation Diagram: 
 The Entity Relation Diagram is a structural diagram that shows the relationship between entities in the bank database. This part is shown in "Entity relation diagram 26714484.png"
 
+#Use Case Diagram:
 The Use Case Diagram is a behavioural diagram. This part is shown in "Use_case Bank diagram 26714484 .png"
 
+#flow chart is a diagram:
+A flow chart is a diagram that represents an algorithm and is crucial for system planning. In technical analysis and programming, flow charts are frequently used to make it easier to write programmes and explain them to others. This part is shown in ""
+
+#Gantt Chart:
 The Gantt Chart is a chart to show project timetable (planning) This part is shown in "bank26714484.jpg"
+
 
 # Coding part : 
 
