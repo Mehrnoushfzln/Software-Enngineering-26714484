@@ -11,7 +11,7 @@ The Use Case Diagram is a behavioural diagram. This part is shown in "Use_case B
 # Flow Chart is a diagram:
 A flow chart is a diagram that represents an algorithm and is crucial for system planning. In technical analysis and programming, flow charts are frequently used to make it easier to write programmes and explain them to others. This part is shown in "FlowChart 26714484.png"
 
-# screen mockup:
+# Screen Mockup:
 A screen mockup is a representation in graphic form of the user interface of a software programme. It serves as a preview of the Software for stakeholders and a way to get their opinions on how it should be designed. This part is shown in "Screen Mockup.pdf". This file shows screen mock-ups for 3 pages. (Main Page, Create an account, View account details)
 
 # Gantt Chart:
