@@ -44,3 +44,6 @@ The Gantt Chart is a chart to show project timetable (planning) This part is sho
 # 3 - Executive video of the Bank prototype
 
 "26714484run.mp4" : executive video of the bank prototype.
+
+# 4 - Table of Contributors
+Name of Contributors in this assessment mantionned in this table : Table of Contributors.png (Mehrnoush Fazlollah Nejad 26714484)
