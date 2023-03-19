@@ -20,16 +20,22 @@ The Gantt Chart is a chart to show project timetable (planning) This part is sho
 
 # 2 - Coding part : 
 
+# MainPage.py :
 " MainPage.py " : this is the first part of creating the Graphic user interface which creates "create an account", "withdraw cash",  "deposit cash", "transfer from different accounts", and "view account detail" buttons. This part is shown in "Third.py".    the first page is compeleted by MainPage.py
 
+# View accounnt detail.py:
 " View accounnt detail.py " : complete coding part for view account detail button. with clicking on this button user can see her/his account details. 
 
+# create an account.py:
 " create an account.py " : create an account.py, contains the routines for generating user accounts. compeletes the coding part for create an account button.
 
+# Deposit Cash.py:
 " Deposit Cash.py " : compeletes the coding parts for deposit cash button, with click on this button user can see the list of places that he/she can go there and put more money in her/his Account.
 
+# withdraw cash.py:
 " withdraw cash.py " : compeletes the coding parts for withdraw cash button, with click on this button user can see the list of places that he/she can go there and get cash from her/his Account.
 
+# transfer from different account.py: (Final part of coding)
 "transfer from different account.py" : compeletes the coding parts for transfer from different account button, with click on this button user should enter another user account details and enter the amount he/she wants to transfer, then with clicking on submit button , the money will transfer.
 
 # " transfer from different account.py " is the final versionn of the bank software prototype with run this file you can see the final version.
